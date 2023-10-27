@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Views\\Account",
+    "\\Views\\Pizzas",
+    "\\Views\\Shared\\Components",
+    "\\Views\\ShoppingCart"
+  ],
+  "SelectedNode": "\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
